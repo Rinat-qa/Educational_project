@@ -4,3 +4,5 @@ Educational project for learning testing automation tools and technologies (Те
 Локально изменили файл.
 
 Изменили через GitHub.
+
+Создали новую ветку ver.
